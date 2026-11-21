@@ -1,0 +1,9 @@
+holding_ticker,proxy_ticker,proxy_currency,reason
+XEF,EFA,USD,"Developed ex-North America equity (MSCI EAFE); converted to CAD"
+XEC,EEM,USD,"Emerging markets equity (MSCI EM); converted to CAD"
+XSH,XSB.TO,CAD,"Canadian short-term bonds (FTSE Canada Short Term Overall Bond index)"
+GOVT,IEF,USD,"US Treasuries (7-10 year); converted to CAD"
+XBB,XBB.TO,CAD,"Not needed unless history is missing"
+XIC,XIU.TO,CAD,"Canadian large-cap equity (S&P/TSX 60)"
+ITOT,SPY,USD,"US large-cap equity (S&P 500); converted to CAD"
+USIG,LQD,USD,"US investment-grade corporate bonds; converted to CAD"

@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/risk.db
+data/raw/prices_*.csv
+data/raw/fred_yields.csv
+~$*.xlsx
+*.pdf
+data/raw/xbal_holdings.csv
+docs/CHEATSHEET.md
